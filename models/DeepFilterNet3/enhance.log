@@ -1,0 +1,15 @@
+2025-05-03 06:49:29 | INFO     | DF | Running on torch 2.7.0+cpu
+2025-05-03 06:49:29 | INFO     | DF | Running on host DESKTOP-35EJ7QN
+2025-05-03 06:49:29 | INFO     | DF | Loading model settings of DeepFilterNet3
+2025-05-03 06:49:29 | INFO     | DF | Running with post-filter (beta: 0.02)
+2025-05-03 06:49:29 | INFO     | DF | Initializing model `deepfilternet3`
+2025-05-03 06:49:29 | WARNING  | DF | Could not find `best` checkpoint. Checking for default...
+2025-05-03 06:49:29 | ERROR    | DF | Could not find a checkpoint
+2025-05-03 06:54:18 | INFO     | DF | Running on torch 2.7.0+cpu
+2025-05-03 06:54:18 | INFO     | DF | Running on host DESKTOP-35EJ7QN
+2025-05-03 06:54:19 | INFO     | DF | Loading model settings of DeepFilterNet3
+2025-05-03 06:54:19 | INFO     | DF | Running with post-filter (beta: 0.02)
+2025-05-03 06:54:19 | INFO     | DF | Initializing model `deepfilternet3`
+2025-05-03 06:54:19 | INFO     | DF | Found checkpoint models/DeepFilterNet3\checkpoints\model_120.ckpt.best with epoch 120
+2025-05-03 06:54:19 | INFO     | DF | Running on device cpu
+2025-05-03 06:54:19 | INFO     | DF | Model loaded
